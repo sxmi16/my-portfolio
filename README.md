@@ -10,6 +10,7 @@ I'm a student working on Python, data analysis, and applied machine learning. Pr
 
 | Project | Description | Skills / Tools |
 |---|---|---|
+| [Neural Network and Deep Learning](Project%20-%20Customer%20Segmentation.ipynb) | Groups customers into segments based on purchasing behavior to support targeted marketing. | Python, pandas, scikit-learn, clustering |
 | [Beta Bank Churn Prediction](./Project%20-%20Beta_Bank_Churn_Prediction.ipynb) | Predicts whether bank customers will leave (churn), using classification models to help the business target retention efforts. | Python, pandas, scikit-learn, classification metrics |
 | [Data Analysis with Pandas](./Project%20-%20Data%20Analysis%20with%20Pandas%20.ipynb) | Exploratory data analysis project demonstrating data cleaning, transformation, and visualization techniques with pandas. | Python, pandas, data cleaning, visualization |
 | [Instacart Market Basket Analysis](./Project%20-%20Instacart%20Market%20Basket%20Analysis.ipynb) | Analyzes customer shopping behavior and reordering patterns from Instacart order data. | Python, pandas, EDA, customer behavior analysis |
